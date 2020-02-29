@@ -1,0 +1,9 @@
+ports required for VPN on aws
+tcp: 943
+udp: 1194
+
+hhtps://openvpn.net
+get the centos os 6 and install on ec2 using elastic ip
+curl -O < paste the url >
+and follow the instructions
+---------------------------------------------------
